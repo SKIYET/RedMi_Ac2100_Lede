@@ -16,3 +16,5 @@ sed -i 's/192.168.2.1/192.168.50.5/g' package/base-files/files/bin/config_genera
 #Ruijie
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/MentoHUST-OpenWrt-ipk
 git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
+git clone https://github.com/BoringCat/luci-app-minieap.git package/luci-app-minieap
+git clone https://github.com/BoringCat/minieap-openwrt.git package/minieap
